@@ -3,3 +3,5 @@
 ### Overview
 
 This is the starter project for iOS 101 Lab 1 Mario Kart
+
+![demo](https://imgur.com/a/i1BaXCT)
